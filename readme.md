@@ -34,4 +34,4 @@
   <li> Run npm install</li>
    <li>Run npm run dev</li>
 <b>That's it - load the homepage.</b>
-</article>
+</article>   
