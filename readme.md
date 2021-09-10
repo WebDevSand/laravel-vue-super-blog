@@ -5,7 +5,7 @@
    
 ##Here are the things you will learn in this series:
 * How use Vue Router with Laravel(Using for routing)
-* How to Use Vue filter
+* How to Use Vue filter 
 * How use Vuex with Laravel (Used for state management)
 * How to Install AdminLTE 3 (Template used for admin panel)
 * How to Use Font Awesome 5 on Laravel (Used for admin panel icon)
