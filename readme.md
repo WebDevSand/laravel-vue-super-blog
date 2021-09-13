@@ -4,7 +4,7 @@
 ![laravel vue js vuex vue router blog project](https://user-images.githubusercontent.com/29582239/49328894-e5dff680-f5a1-11e8-9190-c6b25730bfb5.png)
    
 ##Here are the things you will learn in this series:
-* How use Vue Router with Laravel(Using for routing)
+* How use Vue Router with Laravel(Using for routing) 
 * How to Use Vue filter 
 * How use Vuex with Laravel (Used for state management)
 * How to Install AdminLTE 3 (Template used for admin panel)
